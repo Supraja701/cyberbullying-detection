@@ -9,7 +9,7 @@ It also includes a **Flask web app** for interactive predictions.
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/YOURUSERNAME/cyberbullying-detection.git
+git clone https://github.com/Supraja701/cyberbullying-detection.git
 cd cyberbullying-detection
 
 📊 Example Results
